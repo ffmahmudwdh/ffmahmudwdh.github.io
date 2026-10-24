@@ -1,0 +1,33 @@
+{
+ "id": "./",
+ "name": "Библиотека хутб",
+ "short_name": "Хутбы",
+ "description": "Цифровая библиотека пятничных хутб",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "lang": "ru",
+ "background_color": "#f2f6f4",
+ "theme_color": "#1f4d3f",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
